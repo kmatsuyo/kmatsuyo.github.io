@@ -26,10 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Kayli Matsuyoshi"
   pronouns         : "she/her"  
-  bio              : "Physical Oceanography PhD student studying wave-current interactions"
+  bio              : "Physical Oceanography PhD student studying air-sea interactions"
   university       : "UC San Diego"
   location         : "La Jolla, CA"
-  employer         : "https://airsea.ucsd.edu/"
+  employer         : "[Air-Sea Interaction Lab](https://airsea.ucsd.edu/)"
   uri              : # URL
   email            : "kmatsuyo@ucsd.edu" 
 
