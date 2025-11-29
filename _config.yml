@@ -24,11 +24,12 @@ repository               : "kmatsuyo/kmatsuyo.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Kayli Matsuyoshi"
   pronouns         : "she/her"  
-  bio              : "Physical Oceanography PhD student"
+  bio              : "Physical Oceanography PhD student studying wave-current interactions"
+  university       : "UC San Diego"
   location         : "La Jolla, CA"
-  employer         : "Scripps Institution of Oceanography, University of California, San Diego"
+  employer         : "https://airsea.ucsd.edu/"
   uri              : # URL
   email            : "kmatsuyo@ucsd.edu" 
 
