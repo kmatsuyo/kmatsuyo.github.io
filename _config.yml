@@ -28,8 +28,8 @@ author:
   pronouns         : "she/her"  
   bio              : "Physical Oceanography PhD student studying air-sea interactions"
   university       : "UC San Diego"
-  employer         : "Air-Sea Interaction Lab"
-  uri              : "https://airsea.ucsd.edu/"
+  employer         : "https://airsea.ucsd.edu/"
+  uri              : #
   email            : "kmatsuyo@ucsd.edu" 
 
   # Academic websites
