@@ -1,6 +1,6 @@
 # Acknowledgements
 
-This wesbite was created using the template provided by https://github.com/academicpages/academicpages.github.io. 
+This wesbite was created using the ![template provided by Academic Pages](https://github.com/academicpages/academicpages.github.io). 
 
 # Creating your own academic website
 
