@@ -11,8 +11,8 @@ I am a third-year PhD student studying Physical Oceanography at the Scripps Insi
 
 My PhD thesis will work towards addressing the following questions: 
 1. How do surface wave-current interactions at submesoscale features affect ocean-atmosphere mass, heat, and momentum fluxes?
-2. How can surface wave-induced modulation of air-sea fluxes at submesoscale fronts be quantified?
-3. What role does surface wave-induced drifts play in the evolution of submesoscale fronts?
+2. How can surface wave-induced modulations of air-sea fluxes at submesoscale fronts be quantified?
+3. What role do surface wave-induced drifts play in the evolution of submesoscale fronts?
 
 I am motivated to expand conversations about the ocean beyond institutional settings and make ocean education more accessible. The ocean affects the climate, and therefore affects every community. 
 
