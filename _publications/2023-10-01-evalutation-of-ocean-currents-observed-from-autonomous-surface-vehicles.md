@@ -7,7 +7,7 @@ excerpt: 'Wave Gliders are instrument platforms that efficiently collect measurm
 date: 2023-10-01
 venue: 'Journal of Atmospheric and Oceanic Technology'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://journals.ametsoc.org/view/journals/atot/40/10/JTECH-D-23-0066.1.xml'
+paperurl: 'https://academicpages.github.io/files/slides1.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Hodges, B. A., Grare, L., Greenwood, B., Matsuyoshi, K., Pizzo, N., Statom, N. M., Farrar, J. T., & Lenain, L. (2023). Evaluation of Ocean Currents Observed from Autonomous Surface Vehicles. <i>Journal of Atmospheric and Oceanic Technology, 40</i>(10), 1121-1136.'
 ---
