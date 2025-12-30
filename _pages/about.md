@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Me, Briefly"
+title: "Me, briefly"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,4 +16,4 @@ My PhD thesis will work towards addressing the following questions:
 
 I am motivated to expand conversations about the ocean beyond institutional settings and make ocean education more accessible. The ocean affects the climate, and therefore affects every community. 
 
-I graduated magna cum laude from the University of California, San Diego, where I majored in Oceanic and Atmospheric Sciences and minored in Mathematics. In addition to the ocean, I love capoeira, hip hop, tennis, and many forms of art. 
+I graduated magna cum laude from the University of California, San Diego, with a major in Oceanic and Atmospheric Sciences and a minor in Mathematics. In addition to the ocean, I love capoeira, hip hop, tennis, and many forms of art. 
