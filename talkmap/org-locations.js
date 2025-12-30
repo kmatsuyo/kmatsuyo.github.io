@@ -1,10 +1,5 @@
 var addressPoints = [
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
-  ],
-  [
     "Airborne observations of wave-current interactions at submesoscale features<br />Ocean Sciences Meeting; Glasgow, Scotland",
     55.861155,
     -4.2501687
