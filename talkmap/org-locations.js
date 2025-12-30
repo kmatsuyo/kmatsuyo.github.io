@@ -5,6 +5,11 @@ var addressPoints = [
     -118.242766
   ],
   [
+    "Airborne observations of wave-current interactions at submesoscale features<br />Ocean Sciences Meeting; Glasgow, Scotland",
+    55.861155,
+    -4.2501687
+  ],
+  [
     "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
     51.5074456,
     -0.1277653
@@ -13,10 +18,5 @@ var addressPoints = [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
     37.8708393,
     -122.272863
-  ],
-  [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7932754,
-    -122.3963589
   ]
 ];
